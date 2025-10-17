@@ -26,3 +26,7 @@
  
 ### 데이터 증강 참고
 https://fish-tank.tistory.com/95
+
+
+### 태블로 활용
+https://public.tableau.com/app/profile/juoh.hong/viz/__17606845590710/1
